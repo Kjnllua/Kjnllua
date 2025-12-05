@@ -11,7 +11,7 @@ Currently, I am focused on building robust data pipelines and scalable ML soluti
 
 ### 🧐 Who am I?
 
-- 🔭 I’m currently an .
+- 🔭 I’m currently aa **Data Science Fellow at ALX Africa**.
 - 🌱 I’m currently upskilling in **Cloud Data Engineering** and **Machine Learning**.
 - 🧪 **My Pivot:** I transitioned from conducting RNA extractions and ELISA assays in wet labs to building automated ETL pipelines in the cloud.
 - ⚡ **Core Philosophy:** I believe in "Data Operations" — treating data with the same strict protocols as a biological experiment.
@@ -23,7 +23,6 @@ Currently, I am focused on building robust data pipelines and scalable ML soluti
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Data & Engineering**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
