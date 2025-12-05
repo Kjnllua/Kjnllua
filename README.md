@@ -11,7 +11,7 @@ Currently, I am focused on building robust data pipelines and scalable ML soluti
 
 ### 🧐 Who am I?
 
-- 🔭 I’m currently aa **Data Science Fellow at ALX Africa**.
+- 🔭 I’m currently a **Data Science Fellow at ALX Africa**.
 - 🌱 I’m currently upskilling in **Cloud Data Engineering** and **Machine Learning**.
 - 🧪 **My Pivot:** I transitioned from conducting RNA extractions and ELISA assays in wet labs to building automated ETL pipelines in the cloud.
 - ⚡ **Core Philosophy:** I believe in "Data Operations" — treating data with the same strict protocols as a biological experiment.
